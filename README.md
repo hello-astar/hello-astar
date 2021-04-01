@@ -1,6 +1,10 @@
-### Hi, I am Astar, a frontEnd web developer from China 👋
+### Hi there, I am Astar, a frontEnd web developer from China 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hello-astar&count_private=true&show_icons=true&theme=radical)
+
+> [CSDN](https://blog.csdn.net/Tracy_frog)
+> [github.io](https://hello-astar.github.io/)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hello-astar&count_private=true&show_icons=true)
 
 <!--
 **hello-astar/hello-astar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
